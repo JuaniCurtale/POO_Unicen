@@ -13,7 +13,7 @@ public class Pagina extends MiembroPagina{
                 this.vinculos = vinculos;
                 this.tamanio = tamanio;
         }
-
+//
 
         public int getpeso(){
                 int cant = 0;

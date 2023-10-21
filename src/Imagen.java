@@ -16,6 +16,6 @@ public class Imagen extends MiembroPagina{
 
     @Override
     public void modificarTamanio(float escala){
-        super.modificarTamanio(escala);
+        super.modificarTamanio(escala)////;
     }
 }

@@ -9,7 +9,7 @@ public abstract class MiembroPagina {
     public abstract int getPeso();
     public float getTamanio(){
         return  tamanio;
-    };
+    };////
     public  void modificarTamanio(float escala){
         this.tamanio = tamanio * escala;
     }

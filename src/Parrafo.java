@@ -4,7 +4,7 @@ public class Parrafo extends MiembroPagina{
         super(tamanio);
         this.contenido = contenido;
     }
-
+    ////
     public int getPeso(){
         return contenido.length();
     }
